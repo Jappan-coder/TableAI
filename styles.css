@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 .hero {
-    background: url('dimmer_image.png') no-repeat center center/cover;
+    background: url('https://i.ibb.co/bNvV6V3/dimmer-image.png') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
